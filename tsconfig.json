@@ -4,6 +4,7 @@
     "module": "ESNext",
     "strict": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "Node"
   }
 }
